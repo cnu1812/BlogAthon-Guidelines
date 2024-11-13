@@ -54,3 +54,6 @@ Share your valuable insights, tutorials, and case studies on Continuous Delivery
 
 
 # Submission Guidelines
+
+
+To be added
