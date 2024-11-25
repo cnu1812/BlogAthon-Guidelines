@@ -49,8 +49,9 @@ Share your valuable insights, tutorials, and case studies on Continuous Delivery
 
 - Start Date - 12-11-2024
 - End Date - 26-11-2024
-- AMA Session - Will be having a AMA session on 13-11-2024 at [Discord](https://discord.gg/3x3h2z6A63)
+- AMA Session - Will be having an AMA session on 13-11-2024 at [Discord](https://discord.gg/3x3h2z6A63)
 - All the communication of the Challenge will be happening here [Discord](https://discord.gg/3x3h2z6A63)
 
 
 # Submission Guidelines
+- Here's the submission form - https://forms.gle/sSbeg3dY6YRiPcA76
